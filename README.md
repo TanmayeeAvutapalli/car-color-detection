@@ -25,5 +25,4 @@ python car_color_detection_gui.py
 - Gradio
 - NumPy
 
-## Demo
-Live demo: [Hugging Face Space](https://huggingface.co/spaces/SreeTanmayee/car-color-people-detection)
+
